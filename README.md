@@ -1,9 +1,9 @@
 # Experiment_Time_Table
 
-## AIM
+## AIM:
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+# ALGORITHM:
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -108,6 +109,10 @@ https://github.com/Yogabharathi3/timetable
 <p align="center">7.19EE404-Digital Electrons</p>
 </body>
 </html>
-
-# OUPUT
+```
+# OUPUT:
 ![](timetable.png)
+
+# RESULT:
+Thus the timetable is displayed in a webpage.
+
